@@ -57,7 +57,7 @@ div#formulario{
 div#imagem{
     background: #5f2c82 url(../imagens/pexels-pixabay-248921.jpg) no-repeat;
     background-size: cover;
-    height: 200px;
+    height: 195px;
     display: block;
 }
 form > input[type=submit] {
