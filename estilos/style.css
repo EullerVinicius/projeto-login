@@ -28,7 +28,7 @@ section#login{
    position: absolute;
    transform: translate(-50%, -50%);
    width: 250px;
-   height: 530px;
+   height: 537px;
     margin: 10px;
     padding: 10px;
     overflow: hidden;
@@ -50,7 +50,7 @@ div#formulario{
     margin: auto;
     text-align: center;
     padding: 10px;
-    height: 515px;
+  
    
 
 }
